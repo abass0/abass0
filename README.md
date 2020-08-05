@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana!</h1>
 <h3 align="center">I'm not a coder, but I do try.</h3>
 
-- 👨‍💻 All of my projects are available at [right here.](right here.)
-
 - 📫 How to reach me **abasso@redhat.com**
 
 - ⚡ Fun fact **I play a little too much League of Legends than I would like to admit**
