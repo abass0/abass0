@@ -8,7 +8,7 @@
 - :video_game: You can find me on **[Steam](http://bit.ly/2kxRgp9)**
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abass0&layout=compact&hide=html" alt="abass0" />
+                                                                       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abass0&layout=compact&hide=html" alt="abass0" />
 
 <p align="center">
 <a href="https://linkedin.com/in/ana-basso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ana-basso" height="30" width="30" /></a>
