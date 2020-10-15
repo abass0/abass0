@@ -7,6 +7,8 @@
 
 - :video_game: You can find me on **[Steam](http://bit.ly/2kxRgp9)**
 
+- :tv: You can occasionally watch me on**[YouTube](https://www.youtube.com/channel/UCBwHk9EiaWp7DNSKUm7gHbQ/)**
+
 <p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
 
 <p align="center">
